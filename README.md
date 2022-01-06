@@ -16,6 +16,11 @@ Must have `requests` and `time`installed
 
 ---
 
+# How to get your Information
+
+**MUST BE LOGGED INTO ROLIMONS**
+https://www.rolimons.com/
+
 Requires your `_ga`  and `_RoliVerification` found on the rolimons website.
 
 ![image](https://user-images.githubusercontent.com/68619882/142637495-bed680d4-402f-420a-b0c1-708c5bbf5a91.png)
