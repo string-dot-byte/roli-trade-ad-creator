@@ -25,7 +25,9 @@ tagInfo = {
 	'5': 'robux',
 	'6': 'upgrade',
  	'7': 'downgrade',
-	'8': 'wishlist'
+	'8': 'wishlist',
+	'9': 'projecteds',
+	'10': 'adds'
 }
 
 print('''
